@@ -1,0 +1,98 @@
+toc:
+  ## Sub page table of contents
+  - title: Transportation
+    subfolderitems:
+      - page: Integration of Cycling into Municipal Traffic Plan
+        url: /SmartCityToolkit/transportation/integration-of-cycling.html
+      - page: Vehicle Parking Management 
+        url: /SmartCityToolkit/transportation/vehicle-parking-management.html
+      - page: Public Transit
+        url: /SmartCityToolkit/transportation/public-transit.html
+  - title: Civic Engagement 
+    subfolderitems:
+      - page: Public Outreach
+        url: /SmartCityToolkit/civic-engagment/public-outreach.html
+      - page: Civic Empowerment 
+        url: /SmartCityToolkit/civic-engagment/civic-empowerment.html
+  - title: Economic Development and Culture 
+    subfolderitems:
+      - page: Tourism Promotion
+        url: /SmartCityToolkit/economic-development-culture/tourism-promotion.html
+      - page: Economic Support  
+        url: /SmartCityToolkit/economic-development-culture/economic-support.html
+  - title: Emergency Management 
+    subfolderitems:
+      - page: Fire Response Systems
+        url: /SmartCityToolkit/emergency-management/fire-response-systems.html
+      - page: Community Engagement in Policing  
+        url: /SmartCityToolkit/emergency-management/community-engagement-in-policing.html
+      - page: Medical Emergency Response
+        url: /SmartCityToolkit/emergency-management/medical-emergency-response.html
+      - page: Predictive Policing
+        url: /SmartCityToolkit/emergency-management/predictive-policing.html
+  - title: Parks and Recreation 
+    subfolderitems:
+      - page: public-outreach
+        url: /SmartCityToolkit/park-recreation/grounds-and-facilities-maintenance.html
+      - page: Promoting Facilities Use
+        url: /SmartCityToolkit/park-recreation/promoting-facilities-use.html
+  - title: Housing 
+    subfolderitems:
+      - page: Affordable Housing
+        url: /SmartCityToolkit/housing/affordable-housing
+      - page: Shelter Management
+        url: /SmartCityToolkit/housing/shelter-management
+      - page: Energy Efficient Homes
+        url: /SmartCityToolkit/housing/energy-efficient-homes
+  - title: Information Technology Services
+    subfolderitems:
+      - page: Internet Accessibility
+        url: /SmartCityToolkit/information-technology/internet-accessibility
+      - page: Creating and Informed Public
+        url: /SmartCityToolkit/information-technology/creating-informed-public
+      - page: Library Services
+        url: /SmartCityToolkit/information-technology/library-services
+  - title: Infrastructure
+    subfolderitems:
+      - page: Building Management
+        url: /SmartCityToolkit/infrastructure/building-management
+      - page: Facilities Management
+        url: /SmartCityToolkit/infrastructure/facilities-management
+      - page: Road Maintenance
+        url: /SmartCityToolkit/infrastructure/road-maintenance
+  - title: Municipal Aministration
+    subfolderitems: 
+      - page: Data Governance
+        url: /SmartCityToolkit/municipal-administration
+  - title: Public Health
+    subfolderitems:
+      - page: Air Quality
+        url: /SmartCityToolkit/public-health/air-quality
+      - page: Outbreak Management
+        url: /SmartCityToolkit/public-health/outbreak-management
+      - page: intervention-initiatives
+        url: /SmartCityToolkit/public-health/intervention-initiatives
+  - title: Utilities
+    subfolderitems:
+      - page: Water
+        url: /SmartCityToolkit/utilities/water
+      - page: Waste Management
+        url: /SmartCityToolkit/utilities/waste-management  
+      - page: Power
+        url: /SmartCityToolkit/utilities/power
+      - page: Reducing Emissions
+        url: /SmartCityToolkit/utilities/reducing-emissions
+        ## Sub-sub page table of contents
+  - title: Public Outreach
+    subfolderitems:
+      - page: Outreach to the disability community
+        url: /SmartCityToolkit/civic-engagment/public-outreach/outreach-to-the-disability-community.html
+    subfolderitems:
+      - page: Educating neighbourhoods on safe street practices
+        url: /SmartCityToolkit/civic-engagment/public-outreach/education-neighbourhoods-on-safe-street-practices.html
+  - title: Civic Empowerment
+    subfolderitems:
+      - page: Hackathons
+        url: /SmartCityToolkit/civic-engagment/civic-empowerment/hackathons.html
+      - page: Encouraging residents to vote
+        url: /SmartCityToolkit/civic-engagment/civic-empowerment/encouraging-residents-to-vote.html

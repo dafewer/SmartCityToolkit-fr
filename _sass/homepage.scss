@@ -1,0 +1,140 @@
+.homepage {
+    .smart-city--image-map {
+        position: relative;
+        .map-pin {
+            color: black;
+            position: absolute;
+            width: auto;
+            height: auto;
+            background-color: white;
+            border-radius: 5px;
+            &:hover, 
+            &:focus,
+            &:focus-within {
+                background-color: white;
+                border-radius: 5px;
+            }
+            img {
+                width: 3rem;
+                margin: .5rem auto 0;
+                display: none;
+            }
+            .pin-title {
+                display: block;
+                padding: .5rem 1rem;
+                text-align: center;
+            }
+            svg {
+                position: absolute;
+                fill: white;
+                left: 0;
+            }
+            svg.bottom {
+                bottom: -1.75rem;
+            }
+            svg.top {
+                top: -1.5rem;
+            }
+            svg.left {
+                left: -3rem;
+            }
+            a {
+                color: black;
+                font-weight: bold;
+                &:hover, 
+                &:focus,
+                &:focus-within {
+                    text-decoration: underline;
+                    img {
+                        display: block;
+                    }
+                    .pin-title {
+                        text-align: center;
+                        font-weight: bold; 
+                    }
+                }
+            }
+        }
+        .infrastructure {
+            bottom: 34rem;
+            right: 34rem;
+        }
+        .public-health {
+            bottom: 32rem;
+            left: 13rem;
+        }
+        .housing {
+            top: 37rem;
+            left: 17rem;
+        }
+        .transportation-mobility {
+            bottom: 19rem;
+            right: 10rem;
+            width: 11%;
+        }
+        .park-recreation {
+            bottom: 14rem;
+            left: 10rem;
+        }
+        .economic-develop {
+            right: 14rem;
+            top: 42rem;
+        }
+        .municipal-administration {
+            bottom: 40rem;
+            right: 39rem;
+        }
+        .civic-engagement {
+            bottom: 13rem;
+            right: 27rem;
+        }
+        .information-technology {
+            top: 27rem;
+            right: 16rem;
+        }
+        .emergency-management {
+            bottom: 17rem;
+            left: 28rem;
+            width: 9%;
+        }
+        .utitlies {
+            top: 21rem;
+            left: 26rem;
+        }
+        .utitlies2 {
+            bottom: 29rem;
+            left: 35rem;
+        }
+        .utitlies1 {
+            top: 21rem;
+            right: 9rem;
+        }
+        
+    }
+    .footer-city-logos {
+        margin-bottom: 2rem;
+        .wrapper {
+            display: flex;
+            margin: 0 3rem;
+            a {
+                margin: 0 2rem;
+                text-align: center;
+                font-size: 1.5rem;
+                font-weight: bold;
+                color: black;
+                &:hover,
+                &:focus {
+                    color: rgb(31, 31, 179);
+                    text-decoration: underline;
+                }
+                img {
+                    width: 14rem;
+                    height: 12rem;
+                    margin-bottom: 1rem;
+                }
+            }
+        }
+        
+    }
+}
+

@@ -1,98 +1,99 @@
 toc:
   ## Sub page table of contents
-  - title: Transportation
+  - title: Transports
     subfolderitems:
-      - page: Integration of Cycling into Municipal Traffic Plan
-        url: /SmartCityToolkit/transportation/integration-of-cycling.html
-      - page: Vehicle Parking Management 
-        url: /SmartCityToolkit/transportation/vehicle-parking-management.html
-      - page: Public Transit
-        url: /SmartCityToolkit/transportation/public-transit.html
-  - title: Civic Engagement 
+      - page: Intégration du vélo dans le plan de circulation municipal
+        url: TrousseVilleIntelligente/transports/integration-du-velo
+      - page: Gestion du stationnement 
+        url: TrousseVilleIntelligente/transports/gestion-du-stationnement
+      - page: Transport en commun 
+        url: TrousseVilleIntelligente/transports/transport-en-commun
+  - title: Engagement civique
     subfolderitems:
-      - page: Public Outreach
-        url: /SmartCityToolkit/civic-engagment/public-outreach.html
-      - page: Civic Empowerment 
-        url: /SmartCityToolkit/civic-engagment/civic-empowerment.html
-  - title: Economic Development and Culture 
+      - page: Relations avec le public
+        url: TrousseVilleIntelligente/engagement-civique/relations-avec-le-public.html
+       - page: Autonomisation civique 
+        url: TrousseVilleIntelligente/engagement-civique/autonomisation-civique.html
+  - title: Développement économique et culture 
     subfolderitems:
-      - page: Tourism Promotion
-        url: /SmartCityToolkit/economic-development-culture/tourism-promotion.html
-      - page: Economic Support  
-        url: /SmartCityToolkit/economic-development-culture/economic-support.html
-  - title: Emergency Management 
+      - page: Promotion du tourisme
+        url: TrousseVilleIntelligente/developpement-economique-culture/promotion-du-tourisme.html
+      - page: Soutien économique  
+        url: TrousseVilleIntelligente/developpement-economique-culture/soutien-economique.html
+  - title: Gestion des urgences 
     subfolderitems:
-      - page: Fire Response Systems
-        url: /SmartCityToolkit/emergency-management/fire-response-systems.html
-      - page: Community Engagement in Policing  
-        url: /SmartCityToolkit/emergency-management/community-engagement-in-policing.html
-      - page: Medical Emergency Response
-        url: /SmartCityToolkit/emergency-management/medical-emergency-response.html
-      - page: Predictive Policing
-        url: /SmartCityToolkit/emergency-management/predictive-policing.html
-  - title: Parks and Recreation 
+      - page: Systèmes d’intervention en cas d’incendie
+        url: TrousseVilleIntelligente/gestion-des-urgences/systemes-d-intervention-en-cas-d-incendie.html
+      - page: Participation communautaire au maintien de l’ordre
+        url: TrousseVilleIntelligente/gestion-des-urgences/participation-communautaire-au-maintien-de-l-ordre.html
+      - page: Services d’intervention médicale d’urgence
+        url: TrousseVilleIntelligente/gestion-des-urgences/intervention-medicale-d-urgence.html
+      - page: Maintien de l’ordre prédictif
+        url: TrousseVilleIntelligente/gestion-des-urgences/maintien-de-l-ordre-predictif.html
+  - title: Parcs et loisirs  
     subfolderitems:
-      - page: public-outreach
-        url: /SmartCityToolkit/park-recreation/grounds-and-facilities-maintenance.html
-      - page: Promoting Facilities Use
-        url: /SmartCityToolkit/park-recreation/promoting-facilities-use.html
-  - title: Housing 
+      - page: Entretien des terrains et des installations
+        url: TrousseVilleIntelligente/parcs-et-loisirs/entretien-des-terrains-et-des-installations
+      - page: Promotion des installations
+        url: TrousseVilleIntelligente/parcs-et-loisirs/promotion-des-installations
+  - title: Logement 
     subfolderitems:
-      - page: Affordable Housing
-        url: /SmartCityToolkit/housing/affordable-housing
-      - page: Shelter Management
-        url: /SmartCityToolkit/housing/shelter-management
-      - page: Energy Efficient Homes
-        url: /SmartCityToolkit/housing/energy-efficient-homes
-  - title: Information Technology Services
+      - page: Favoriser les projets de logement abordable
+        url: TrousseVilleIntelligente/logement/logement-abordable
+      - page: Gestion des refuges et prestation compartimentée des services
+        url: TrousseVilleIntelligente/logement/gestion-des-refuges
+      - page: Habitations écoénergétiques
+        url: TrousseVilleIntelligente/logement/habitations-ecoenergetiques
+  - title: Technologies de l'information
     subfolderitems:
-      - page: Internet Accessibility
-        url: /SmartCityToolkit/information-technology/internet-accessibility
-      - page: Creating and Informed Public
-        url: /SmartCityToolkit/information-technology/creating-informed-public
-      - page: Library Services
-        url: /SmartCityToolkit/information-technology/library-services
-  - title: Infrastructure
+      - page: Meilleure accessibilité à l’Internet
+        url: TrousseVilleIntelligente/technologies-de-l-information/accessibilite-a-Internet
+      - page: Bien informer le public
+        url: TrousseVilleIntelligente/technologies-de-l-information/bien-informer-le-public
+      - page: Bibliothèques
+        url: TrousseVilleIntelligente/technologies-de-l-information/bibliotheques
+  - title: Infrastructures
     subfolderitems:
-      - page: Building Management
-        url: /SmartCityToolkit/infrastructure/building-management
-      - page: Facilities Management
-        url: /SmartCityToolkit/infrastructure/facilities-management
-      - page: Road Maintenance
-        url: /SmartCityToolkit/infrastructure/road-maintenance
-  - title: Municipal Aministration
+      - page: Gestion des bâtiments
+        url: TrousseVilleIntelligente/infrastructures/gestion-des-batiments
+      - page: Gestion des installations
+        url: TrousseVilleIntelligente/infrastructures/gestion-des-installations
+      - page: Entretien des routes
+        url: TrousseVilleIntelligente/infrastructures/entretien-des-routes
+  - title: Administration municipale
     subfolderitems: 
-      - page: Data Governance
-        url: /SmartCityToolkit/municipal-administration
-  - title: Public Health
+      - page: Gouvernance des donnees
+        url: TrousseVilleIntelligente/administration-municipale/gouvernance-des-donnees
+  - title: Santé publique
     subfolderitems:
-      - page: Air Quality
-        url: /SmartCityToolkit/public-health/air-quality
-      - page: Outbreak Management
-        url: /SmartCityToolkit/public-health/outbreak-management
-      - page: intervention-initiatives
-        url: /SmartCityToolkit/public-health/intervention-initiatives
-  - title: Utilities
+      - page: Qualité de l’air
+        url: TrousseVilleIntelligente/sante-publique/qualite-de-l-air
+      - page: Gestion des éclosions
+        url: TrousseVilleIntelligente/sante-publique/gestion-des-eclosions
+      - page: Interventions de santé publique  
+        url: TrousseVilleIntelligente/sante-publique/interventions-sante-publique
+  - title: Services publics
     subfolderitems:
-      - page: Water
-        url: /SmartCityToolkit/utilities/water
-      - page: Waste Management
-        url: /SmartCityToolkit/utilities/waste-management  
-      - page: Power
-        url: /SmartCityToolkit/utilities/power
-      - page: Reducing Emissions
-        url: /SmartCityToolkit/utilities/reducing-emissions
+      - page: Eau
+        url: TrousseVilleIntelligente/services-publics/eau
+      - page: Gestion des dechets
+        url: TrousseVilleIntelligente/services-publics/gestion-des-dechets  
+      - page: Électricité
+        url: TrousseVilleIntelligente/services-publics/electricite
+      - page: Réduction des émissions de gaz à effet de serre
+        url: TrousseVilleIntelligente/services-publics/reduction-des-emissions
         ## Sub-sub page table of contents
-  - title: Public Outreach
+  - title: Relations avec le public
     subfolderitems:
-      - page: Outreach to the disability community
-        url: /SmartCityToolkit/civic-engagment/public-outreach/outreach-to-the-disability-community.html
-    subfolderitems:
-      - page: Educating neighbourhoods on safe street practices
-        url: /SmartCityToolkit/civic-engagment/public-outreach/education-neighbourhoods-on-safe-street-practices.html
-  - title: Civic Empowerment
-    subfolderitems:
-      - page: Hackathons
-        url: /SmartCityToolkit/civic-engagment/civic-empowerment/hackathons.html
-      - page: Encouraging residents to vote
-        url: /SmartCityToolkit/civic-engagment/civic-empowerment/encouraging-residents-to-vote.html
+      - page: Les relations avec les personnes handicapées
+        url: TrousseVilleIntelligente/engagement-civique/relations-avec-le-public/relations-avec-les-personnes-handicapees.html
+      - page: La sensibilisation de la population locale à la sécurité dans les rues
+        url: TrousseVilleIntelligente/engagement-civique/relations-avec-le-public/sensibilisation-de-la-population-locale-a-la-securite-dans-les-rues.html
+  - title: Autonomisation civique
+    subfolderitems:    
+      - page: Améliorer l’accès aux assemblées publiques
+        url: TrousseVilleIntelligente/engagement-civique/autonomisation-civique/ameliorer-l-acces-aux-assemblees-publiques.html
+      - page: Encourager les résidents à voter
+        url: TrousseVilleIntelligente/engagement-civique/autonomisation-civique/encourager-les-residents-a-voter.html
+      - page: Marathons de programmation
+        url: TrousseVilleIntelligente/engagement-civique/autonomisation-civique/marathons-de-programmation.html
